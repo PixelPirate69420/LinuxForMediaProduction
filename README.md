@@ -11,3 +11,14 @@ A guide meant to portray the landscape of media production on Linux
 - potentially media professionals
 
   Is this guide 100% future-proof? Some concepts may still hold up but not everything.
+
+Supported Distributions in this guide:
+- Ubuntu
+- Mint
+- Debian
+- Arch
+- Manjaro
+- Fedora
+- OpenSUSE
+- CentOS
+- Rocky
